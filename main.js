@@ -5,7 +5,7 @@ const cron = require("node-cron");
 const emailSubject = "Happy Birthday!🎂🍥";
 
 // birthday data
-const Tim = { targetDay: 27, targetMonth: 6, email: "slimtim10@gmail.com" };
+const Tim = { targetDay: 27, targetMonth: 6, email: "fattim12@gmail.com" };
 const Elvis = {
   targetDay: 8,
   targetMonth: 10,
