@@ -9,9 +9,9 @@ const Tim = { targetDay: 27, targetMonth: 6, email: "fattim12@gmail.com" };
 const Elvis = {
   targetDay: 8,
   targetMonth: 10,
-  email: "elvisowusu757@gmail.com",
+  email: "elvis757@gmail.com",
 };
-const Princess = { targetDay: 22, targetMonth: 5, email: "palabi16@gmail.com" };
+const Princess = { targetDay: 22, targetMonth: 5, email: "palli16@gmail.com" };
 
 const bdMsgsArr = [
   "🎉 Happy Birthday! Wishing you laughter, love, and cake all day long!",
