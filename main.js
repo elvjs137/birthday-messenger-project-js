@@ -40,7 +40,7 @@ const transporter = nodemailer.createTransport({
   secure: true,
   port: 465,
   auth: {
-    user: "elvisemm137@gmail.com",
+    user: "elvm137@gmail.com",
     pass: "dojbyikcxkzvigrr",
   },
 });
@@ -49,7 +49,7 @@ const transporter = nodemailer.createTransport({
 const send = async (recipient, subject, message) => {
   try {
     const info = await transporter.sendMail({
-      from: "'Elvis'<elvisemm137@gmail.com>",
+      from: "'Elvis'<elvm137@gmail.com>",
       to: recipient,
       subject: subject,
       html: message,
